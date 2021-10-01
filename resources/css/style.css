@@ -24,3 +24,8 @@ p {
     font-size: 21px;
     columns: gray;
 }
+
+footer {
+    text-align: right;
+    color: gray;
+}
